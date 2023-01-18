@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\bin\Debug\netcoreapp3.1\dersdetask3cuders.exe
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\bin\Debug\netcoreapp3.1\dersdetask3cuders.deps.json
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\bin\Debug\netcoreapp3.1\dersdetask3cuders.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\bin\Debug\netcoreapp3.1\dersdetask3cuders.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\bin\Debug\netcoreapp3.1\dersdetask3cuders.dll
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\bin\Debug\netcoreapp3.1\dersdetask3cuders.pdb
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.dll
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.pdb
+C:\Users\Ziya\Desktop\c#\dersdetask3cuders\dersdetask3cuders\obj\Debug\netcoreapp3.1\dersdetask3cuders.genruntimeconfig.cache

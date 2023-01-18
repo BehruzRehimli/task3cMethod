@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dersdetask3cuders/1.0.0": {
+        "runtime": {
+          "dersdetask3cuders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dersdetask3cuders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
